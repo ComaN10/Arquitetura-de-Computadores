@@ -1,0 +1,5 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH_isim_beh.exe" -prj "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH_beh.prj" "work.MbTESTEbENCH" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+ERROR:Simulator:796 - Unable to open project file "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH_beh.prj"

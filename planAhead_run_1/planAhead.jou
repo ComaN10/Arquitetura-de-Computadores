@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Mar 08 11:10:31 2023
+# Process ID: 14132
+# Log file: C:/Users/carlo/Desktop/Projeto1AC/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/carlo/Desktop/Projeto1AC/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/carlo/Desktop/Projeto1AC/pa.fromHdl.tcl
+update_compile_order -fileset sim_1

@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sun Mar 12 11:45:51 2023
+# Process ID: 3604
+# Log file: C:/Users/carlo/Desktop/Projeto1AC/planAhead_run_4/planAhead.log
+# Journal file: C:/Users/carlo/Desktop/Projeto1AC/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/carlo/Desktop/Projeto1AC/pa.fromHdl.tcl
+update_compile_order -fileset sim_1

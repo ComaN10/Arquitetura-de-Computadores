@@ -1,0 +1,31 @@
+Command line:
+   MbTESTEbENCH_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49731
+
+Wed Mar 15 09:08:59 2023
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5164.48 Meg
+
+ Total Signals          : 123
+ Total Nets             : 170
+ Total Signal Drivers   : 31
+ Total Blocks           : 20
+ Total Primitive Blocks : 17
+ Total Processes        : 19
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 672
+Total Line Count : 144
+Total Line Count : 144
+Total Line Count : 144
+
+ Total Simulation Time: 43.7969 sec
+
+ Current Memory Usage: 4692.62 Meg
+
+Wed Mar 15 10:28:45 2023
+

@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "C:/Users/Pedro/Desktop/Projeto1AC/Motherboard.xst" -ofn "C:/Users/Pedro/Desktop/Projeto1AC/Motherboard.syr" 
+xst -intstyle ise -ifn "C:/Users/Pedro/Desktop/Projeto1AC/Motherboard.xst" -ofn "C:/Users/Pedro/Desktop/Projeto1AC/Motherboard.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Motherboard.ucf -p xc7a100t-csg324-3 Motherboard.ngc Motherboard.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Motherboard_map.ncd Motherboard.ngd Motherboard.pcf 
+par -w -intstyle ise -ol high -mt off Motherboard_map.ncd Motherboard.ncd Motherboard.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Motherboard.twx Motherboard.ncd -o Motherboard.twr Motherboard.pcf -ucf Motherboard.ucf 
+bitgen -intstyle ise -f Motherboard.ut Motherboard.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Motherboard.ucf -p xc7a100t-csg324-3 Motherboard.ngc Motherboard.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Motherboard_map.ncd Motherboard.ngd Motherboard.pcf 
+par -w -intstyle ise -ol high -mt off Motherboard_map.ncd Motherboard.ncd Motherboard.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Motherboard.twx Motherboard.ncd -o Motherboard.twr Motherboard.pcf -ucf Motherboard.ucf 
+bitgen -intstyle ise -f Motherboard.ut Motherboard.ncd 
+xst -intstyle ise -ifn "C:/Users/carlo/Desktop/Projeto1AC/Motherboard.xst" -ofn "C:/Users/carlo/Desktop/Projeto1AC/Motherboard.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Motherboard.ucf -p xc7a100t-csg324-3 Motherboard.ngc Motherboard.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Motherboard_map.ncd Motherboard.ngd Motherboard.pcf 
+par -w -intstyle ise -ol high -mt off Motherboard_map.ncd Motherboard.ncd Motherboard.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Motherboard.twx Motherboard.ncd -o Motherboard.twr Motherboard.pcf -ucf Motherboard.ucf 
+bitgen -intstyle ise -f Motherboard.ut Motherboard.ncd 

@@ -1,0 +1,395 @@
+ISim log file
+Running: C:\Users\carlo\Desktop\Projeto1AC\MbTESTEbENCH_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/carlo/Desktop/Projeto1AC/MbTESTEbENCH_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /mbtestebench/uut/C_Processador/C_ProgramableCounter/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 10 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 15 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 20 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 25 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 30 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 35 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 40 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 45 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 50 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 55 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 60 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 65 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 70 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 75 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 80 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 85 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 90 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 95 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 100 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 105 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 110 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 115 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 120 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 125 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 130 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 135 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 140 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 145 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 150 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 155 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 160 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 165 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 170 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 175 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 180 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 185 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 190 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 195 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 200 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 205 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 210 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 215 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 220 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 225 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 230 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 235 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 240 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 245 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 250 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 255 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 260 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 265 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 270 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 275 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 280 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 285 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 290 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 295 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 300 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 305 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 405 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 410 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 415 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 415 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 425 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 430 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 435 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 515 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 520 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 525 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 525 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 555 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 560 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 565 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 565 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 615 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 620 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 625 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 625 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 655 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 660 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 665 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 665 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 715 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 720 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 725 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 725 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 755 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 760 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 785 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 790 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 795 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# restart
+# run 10 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 10 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 15 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 20 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 25 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 30 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 35 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 40 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 45 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 50 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 55 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 60 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 65 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 70 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 75 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 80 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 85 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 90 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 95 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 100 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 105 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 110 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 115 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 120 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 125 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 130 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 135 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 140 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 145 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 150 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 155 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 160 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 165 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 170 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 175 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 180 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 185 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 190 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 195 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 200 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 205 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 210 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 215 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 220 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 225 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 230 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 235 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 240 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 245 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 250 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 255 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 260 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 265 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 270 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 275 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 280 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 285 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 290 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 295 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 300 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 305 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 405 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 410 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 415 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 415 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 425 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 430 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 435 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 515 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 520 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 525 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 525 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 555 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 560 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 565 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 565 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 615 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 620 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 625 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 625 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 655 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 660 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 665 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 665 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+# run 10 ns
+at 715 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 720 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 10 ns
+at 725 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 725 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run all
+at 755 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 760 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 785 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 790 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 795 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Stopped at time : 216533395 ns : File "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH.vhd" Line 79
+# restart
+# run all
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 5 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 10 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 15 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 20 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 25 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 30 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 35 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 40 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 45 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 50 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 55 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 60 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 65 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 70 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 75 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 80 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 85 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 90 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 95 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 100 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 105 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 110 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 115 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 120 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 125 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 130 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 135 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 140 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 145 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 150 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 155 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 160 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 165 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 170 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 175 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 180 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 185 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 190 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 195 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 200 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 205 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 210 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 215 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 220 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 225 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 230 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 235 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 240 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 245 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 250 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 255 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 260 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 265 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 270 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 275 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 280 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 285 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 290 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 295 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 300 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 305 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 405 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 410 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 415 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 415 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 425 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 430 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 435 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 515 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 520 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 525 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 525 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 555 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 560 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 565 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 565 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 615 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 620 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 625 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 625 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 655 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 660 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 665 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 665 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 715 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 720 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 725 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 725 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 755 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 760 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 765 ns(3), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 785 ns(4), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 790 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 795 ns(1), Instance /mbtestebench/uut/C_Memoria_de_dados/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Stopped at time : 61973605 ns : File "C:/Users/Pedro/Desktop/AC/Projeto1AC/Memoria_de_dados_RAM.vhd" Line 20
+# run all
+Stopped at time : 92319950 ns : File "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH.vhd" Line 77
+# run all
+Stopped at time : 125002400 ns : File "C:/Users/Pedro/Desktop/AC/Projeto1AC/MbTESTEbENCH.vhd" Line 77
